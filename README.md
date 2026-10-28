@@ -12,6 +12,7 @@
 | [0001-two-sum](https://github.com/Shivanshsingh0001/Leetcode/tree/master/0001-two-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shivanshsingh0001/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivanshsingh0001/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shivanshsingh0001/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
